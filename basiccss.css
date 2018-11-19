@@ -1,5 +1,16 @@
+*{
+	margin: 0px;
+}
+
 h1{
 	background-color: yellow;
 	color: blue;
+	
+	
+}
+
+h3{
+	background-color: blue;
+	color: yellow;
 	
 }
